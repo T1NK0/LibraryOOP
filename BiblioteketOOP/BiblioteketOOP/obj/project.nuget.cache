@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YV+zYqQGKpn7m41P2EsiJqmLPvo14XddXSyBzPVxpi06rF/sIdFbduKxMIL0pzv9oA2oZkVeD3UP238FwpIUow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mads8340\\source\\repos\\BiblioteketOOP\\BiblioteketOOP\\BiblioteketOOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mads8340\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
