@@ -105,7 +105,7 @@ namespace BiblioteketOOP
 
                             int userRentBookChoice = int.Parse(Console.ReadLine());
 
-                            addToBasket = book.AddBookToBasket(availableBooks, userBasket, userRentBookChoice, addToBasket);
+                            addToBasket = book.AddBookToBasket(availableBooks, userBasket, userRentBookChoice, addToBasket); //Sets our method to be equal to our bool we use on our while, so we can break the loop.
 
                             Console.WriteLine();
                         }
